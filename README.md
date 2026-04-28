@@ -8,7 +8,7 @@
 
 ## About Me
 
-I'm a Physician Assistant with 14 years of clinical experience transitioning into healthcare and business data analytics. I bring a rare combination of clinical expertise and technical analytics skills — I understand the data because I've lived the workflows that generate it.
+I'm a Physician Assistant with 14 years of clinical experience transitioning into healthcare and business data analytics. I bring a rare combination of clinical expertise and technical analytics skills. I understand the data because I've lived the workflows that generate it.
 
 **Core tools:** Python · SQL · Tableau · Power BI · Excel  
 **Certifications:** CHDA (AHIMA) · Tableau A-Z (Udemy) · Dashboard in a Day - Power BI (Pragmatic Works)  
