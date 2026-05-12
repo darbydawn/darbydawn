@@ -18,13 +18,17 @@ I'm a Physician Assistant with 14 years of clinical experience transitioning int
 
 ## Portfolio Projects
 
-### 🔍 [Healthcare Fraud in America: FCA Settlement Analysis](https://github.com/darbydawn/healthcare-fraud-fca-analysis)
-Multi-phase fraud detection project using Python, SQL, and Tableau against public Medicaid (T-MSIS/DOGE), Medicare (CMS), DOJ FCA settlement, and OIG exclusion datasets.
-- Phase 1 ✅ — Medicaid anomaly detection: 1,109 flagged records, 194 providers, 2 OIG submissions
-- Phase 2 🔄 — Medicare provider utilization analysis (in progress)
-- Phase 3 🔄 — DOJ FCA settlement cross-reference
-- Phase 4 🔄 — OIG exclusion list matching
-- Phase 5 🔄 — Tableau dashboard
+🔍 Healthcare Fraud in America: FCA Settlement Analysis
+github.com/darbydawn/healthcare-fraud-fca-analysis
+
+Four-phase forensic data investigation into Medicare and Medicaid fraud using publicly available federal datasets. Python, SQL, SQLite, Matplotlib.
+
+• Phase 1 ✅ — Medicaid T-MSIS anomaly detection: 1,109 flagged records across 194 providers, 2 OIG referrals submitted for mathematically impossible LPN billing volumes
+• Phase 2 ✅ — Medicare utilization analysis: identified a 7-provider Arizona cluster billing amniotic allograft injections at $453K–$957K per patient vs. a national NP average of ~$3,500
+• Phase 3 ✅ — DOJ FCA cross-reference: 5 of 7 independently flagged providers subsequently charged in 2024–2025 DOJ takedowns. 71% confirmation rate.
+• Phase 4 ✅ — OIG LEIE national exclusion analysis: 83,001 records. Mississippi patient abuse exclusion rate of 26.59 per 100K — 2.6x the #2 state, concentrated in ICF/IID facilities serving nonverbal and cognitively disabled adults.
+
+4 OIG referrals submitted. $452M+ combined cluster exposure identified. All analysis on public data, no proprietary systems required.
 
 ### 📊 [Donor Analytics Dashboard — Nonprofit](https://github.com/darbydawn/donor-analytics-nonprofit)
 Tableau analysis of 1,200+ donor records across donor type, geographic distribution, and retention rates.
