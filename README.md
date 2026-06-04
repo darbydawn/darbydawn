@@ -1,64 +1,125 @@
-# Hi there 👋
-**Dawn Krysa | Healthcare Data Analyst**  
-PA-C · CHDA · MSHIIM  
-Montana | darbydawn7683@gmail.com
+# Dawn Krysa | Healthcare Analytics Professional
+
+Clinician-turned-analyst with 14 years of healthcare experience and a Master of Science in Health Informatics and Information Management (MSHIIM). I specialize in combining clinical domain expertise with data analytics to identify operational risks, quality opportunities, utilization trends, and healthcare system insights that may be missed by purely technical approaches.
+
+My work focuses on healthcare analytics, program integrity, population health, healthcare governance, risk adjustment, and public-sector data analysis using Python, SQL, Power BI, and publicly available healthcare datasets.
+
+📍 Montana, USA
+
+🔗 LinkedIn: linkedin.com/in/dawn-krysa-b00160388
 
 ---
 
-## About Me
+# Core Competencies
 
-I'm a Physician Assistant with 14 years of clinical experience working in healthcare data analytics. I bring a rare combination of clinical expertise and technical skills. I understand the data because I've lived the workflows that generate it.
+### Healthcare Analytics
 
-**Core tools:** Python · SQL · Tableau · Power BI  
-**Certifications:** CHDA (AHIMA) · Tableau A-Z (Udemy) · Dashboard in a Day - Power BI (Pragmatic Works)  
-**Education:** MSHIIM, Dakota State University · BS Physician Assistant Studies, University of Saint Francis
+* Population Health Analytics
+* Risk Adjustment & HCC Validation
+* Healthcare Quality Measures
+* Clinical Documentation Review
+* Program Integrity Analytics
+* Healthcare Operations Analytics
+* Public Health Research
+* Healthcare AI Evaluation & Governance
 
----
+### Technical Skills
 
-## Portfolio Projects
+* Python (pandas, matplotlib, scipy)
+* SQL (SQLite, MySQL)
+* Power BI
+* Tableau
+* Excel
+* Data Visualization
+* Statistical Analysis
+* Data Quality & Validation
 
-**🔍 Healthcare Fraud in America: FCA Settlement Analysis**  
-github.com/darbydawn/healthcare-fraud-fca-analysis
+### Credentials
 
-Four-phase forensic investigation into Medicare and Medicaid fraud using publicly available federal datasets. Python, SQL, SQLite, Matplotlib.
+* Certified Health Data Analyst (CHDA)
+* Master of Science in Health Informatics & Information Management (MSHIIM)
+* Physician Assistant (14 years clinical experience)
 
-- Phase 1: Medicaid T-MSIS anomaly detection — 1,109 flagged records across 194 providers, 2 OIG referrals submitted for mathematically impossible LPN billing volumes
-- Phase 2: Medicare utilization analysis — identified a 7-provider Arizona cluster billing amniotic allograft injections at $453K–$957K per patient vs. a national average of ~$3,500
-- Phase 3: DOJ FCA cross-reference — 5 of 7 independently flagged providers subsequently charged in 2024–2025 DOJ takedowns. 71% confirmation rate.
-- Phase 4: OIG LEIE national exclusion analysis — 83,001 records. Mississippi patient abuse exclusion rate 2.6x the second-ranked state, concentrated in ICF/IID facilities serving nonverbal and cognitively disabled adults.
-
-4 OIG referrals submitted. $452M+ combined cluster exposure identified. All analysis on public data.
-
----
-
-**📊 Donor Retention and Geography Analysis**  
-github.com/darbydawn/nonprofit-donor-analytics
-
-Tableau analysis of 1,200+ donor records across donor type, geographic distribution, and retention rates for a nonprofit organization.
-
----
-
-**🧠 The Travis Project: Glioblastoma Epidemiological Analysis**  
-github.com/darbydawn/Glioblastoma_Project
-
-Named for Travis, diagnosed with GBM at 31. Multi-dataset epidemiological analysis using NHANES, CDC WONDER, and TCGA/cBioPortal data examining who gets GBM, what predicts survival, and whether the Vitamin D hypothesis holds up when you integrate serum data with racial incidence patterns.
-
-Central finding: Black Americans have 4.6x the Vitamin D deficiency rate of White Americans and roughly half the GBM incidence. The pattern is inverted. The latitude gradient is real but not explained by Vitamin D alone. Ancestral genetic risk variants appear to be the missing variable.
-
-Python · NHANES · CDC WONDER · cBioPortal TCGA (596 patients)
+*Planned 2026: Certified Risk Adjustment Coder (CRC) and Certified Fraud Examiner (CFE)*
 
 ---
 
-## Technical Skills
+# Featured Projects
 
-| Category | Tools |
-|----------|-------|
-| Languages | Python (pandas, matplotlib, scipy), SQL |
-| Visualization | Tableau, Power BI |
-| Data | T-MSIS, CMS Medicare, DOJ FCA, OIG LEIE, NHANES, CDC WONDER, cBioPortal |
-| Methods | Statistical outlier detection, survival analysis, epidemiological correlation, HCC/RAF validation |
+## Healthcare Fraud FCA Analysis
+
+Multi-phase healthcare analytics project integrating CMS, DOJ, and OIG datasets to identify anomalous billing patterns, evaluate utilization trends, and assess analytical methodologies against publicly available enforcement outcomes.
+
+### Highlights
+
+* Analyzed Medicare, Medicaid, DOJ, and OIG datasets using Python and SQL
+* Identified 1,109 anomalous billing records across 194 providers
+* Evaluated utilization patterns across high-cost provider clusters
+* Integrated multiple federal datasets into a unified analytical framework
+* Analyzed 83,001 OIG exclusion records to identify national exclusion trends and geographic variation
+
+### Skills Demonstrated
+
+Python • SQL • Statistical Outlier Detection • Healthcare Utilization Analytics • Public Sector Data Analysis • Investigative Analytics • Data Integration
 
 ---
 
-Open to remote healthcare analytics and program integrity roles.  
-Let's connect: linkedin.com/in/dawn-krysa-b00160388
+## The Travis Project: Glioblastoma Epidemiological Analysis
+
+Developed in memory of a friend diagnosed with glioblastoma at age 31.
+
+This project integrates NHANES, CDC WONDER, and TCGA/cBioPortal datasets to explore glioblastoma incidence, survival patterns, demographic variation, and competing hypotheses regarding environmental and genetic risk factors.
+
+### Highlights
+
+* Multi-dataset epidemiological analysis
+* Population-level incidence and survival evaluation
+* Evaluation of Vitamin D deficiency and disease incidence hypotheses
+* Demographic and racial incidence comparison
+* Integration of public health and genomic datasets
+
+### Skills Demonstrated
+
+Epidemiology • Public Health Analytics • Research Methods • Data Integration • Scientific Analysis • Python
+
+---
+
+## Public Sector Oversight Analytics
+
+Analysis of publicly available federal spending, contract, and governance datasets to evaluate funding trends, contractor concentration, organizational dependency, and oversight structures.
+
+### Highlights
+
+* Federal spending analysis
+* Contract concentration review
+* Governance and oversight evaluation
+* Longitudinal funding trend analysis
+* Public-sector data visualization
+
+### Skills Demonstrated
+
+Public Sector Analytics • Funding Analysis • Contract Analytics • Governance Analytics • Data Visualization
+
+---
+
+# Current Areas of Interest
+
+* Healthcare Analytics
+* Population Health
+* Clinical Informatics
+* Program Integrity
+* Risk Adjustment
+* Healthcare AI Evaluation
+* Quality Measurement
+* Healthcare Operations Analytics
+* Public-Sector Healthcare Data
+
+---
+
+# Professional Philosophy
+
+The most valuable healthcare analytics combines technical rigor with clinical context. Data can identify patterns, but understanding how care is actually delivered often determines whether those patterns become meaningful insights.
+
+My goal is to help healthcare organizations make better decisions by translating complex healthcare data into actionable information.
+
+**Quiet competence. Real impact.**
