@@ -1,125 +1,63 @@
-# Dawn Krysa | Healthcare Analytics Professional
+# Dawn Krysa, PA-C, MSHIIM, CHDA
+### Healthcare Data Analyst | CDI | Risk Adjustment | Fraud Analytics | Payment Integrity
 
-Clinician-turned-analyst with 14 years of healthcare experience and a Master of Science in Health Informatics and Information Management (MSHIIM). I specialize in combining clinical domain expertise with data analytics to identify operational risks, quality opportunities, utilization trends, and healthcare system insights that may be missed by purely technical approaches.
-
-My work focuses on healthcare analytics, program integrity, population health, healthcare governance, risk adjustment, and public-sector data analysis using Python, SQL, Power BI, and publicly available healthcare datasets.
-
-📍 Montana, USA
-
-🔗 LinkedIn: linkedin.com/in/dawn-krysa-b00160388
+**IMHIRS Analytics (Independent Medical Health Informatics Research & Solutions)**  
+Darby, Montana | darbydawn7683@gmail.com | [LinkedIn](https://linkedin.com/in/dawn-krysa-b00160388)
 
 ---
 
-# Core Competencies
+## About
 
-### Healthcare Analytics
+Clinician-turned-analyst with 14 years of practice as a PA-C and a master's in health informatics. I build healthcare analytics projects using publicly available CMS data, with a focus on fraud detection, risk adjustment validation, and payment integrity. My work sits at the intersection of clinical knowledge and data — I can read a chart and write a query.
 
-* Population Health Analytics
-* Risk Adjustment & HCC Validation
-* Healthcare Quality Measures
-* Clinical Documentation Review
-* Program Integrity Analytics
-* Healthcare Operations Analytics
-* Public Health Research
-* Healthcare AI Evaluation & Governance
-
-### Technical Skills
-
-* Python (pandas, matplotlib, scipy)
-* SQL (SQLite, MySQL)
-* Power BI
-* Tableau
-* Excel
-* Data Visualization
-* Statistical Analysis
-* Data Quality & Validation
-
-### Credentials
-
-* Certified Health Data Analyst (CHDA)
-* Master of Science in Health Informatics & Information Management (MSHIIM)
-* Physician Assistant (14 years clinical experience)
-
-*Planned 2026: Certified Risk Adjustment Coder (CRC) and Certified Fraud Examiner (CFE)*
+**Technical stack:** Python (pandas, statistical outlier detection) | SQL (PostgreSQL/DuckDB) | Power BI | Tableau | Excel  
+**Domain depth:** HCC/RAF validation | Medicare Advantage I-SNP | CDI | ICD-10/CPT | HEDIS | Fraud/SIU | Payment Integrity
 
 ---
 
-# Featured Projects
+## Current Work
 
-## Healthcare Fraud FCA Analysis
+**CDI/Clinical Validation Analyst** — Longevity Health Plan via CSI Companies *(May 2026–present)*  
+Live HCC/RAF validation against an AI CDI platform across a Medicare Advantage I-SNP population. 332 patients, 12 LTC facilities. Confirmed missed opportunities: **~$407,000/year**.
 
-Multi-phase healthcare analytics project integrating CMS, DOJ, and OIG datasets to identify anomalous billing patterns, evaluate utilization trends, and assess analytical methodologies against publicly available enforcement outcomes.
-
-### Highlights
-
-* Analyzed Medicare, Medicaid, DOJ, and OIG datasets using Python and SQL
-* Identified 1,109 anomalous billing records across 194 providers
-* Evaluated utilization patterns across high-cost provider clusters
-* Integrated multiple federal datasets into a unified analytical framework
-* Analyzed 83,001 OIG exclusion records to identify national exclusion trends and geographic variation
-
-### Skills Demonstrated
-
-Python • SQL • Statistical Outlier Detection • Healthcare Utilization Analytics • Public Sector Data Analysis • Investigative Analytics • Data Integration
+Key finding: Post-amputation osteomyelitis (HCC 39, M86.172) missed entirely by AI platform. Manual chart review validated active treatment. **+0.974 RAF points, ~$10–12K annual revenue, single patient.** Proof that clinical judgment cannot be fully automated.
 
 ---
 
-## The Travis Project: Glioblastoma Epidemiological Analysis
+## Featured: Healthcare Fraud in America — FCA Settlement Analysis Series
 
-Developed in memory of a friend diagnosed with glioblastoma at age 31.
+> **DOJ Validation — June 23, 2026:** The 2026 National Health Care Fraud Takedown (455 defendants, $6.5B+ alleged fraud) confirmed amniotic wound allograft billing as a primary fraud vector — the same pattern independently identified in Phase 2 of this series using public CMS data. **Pre-charge confirmation rate: 71%.**
 
-This project integrates NHANES, CDC WONDER, and TCGA/cBioPortal datasets to explore glioblastoma incidence, survival patterns, demographic variation, and competing hypotheses regarding environmental and genetic risk factors.
-
-### Highlights
-
-* Multi-dataset epidemiological analysis
-* Population-level incidence and survival evaluation
-* Evaluation of Vitamin D deficiency and disease incidence hypotheses
-* Demographic and racial incidence comparison
-* Integration of public health and genomic datasets
-
-### Skills Demonstrated
-
-Epidemiology • Public Health Analytics • Research Methods • Data Integration • Scientific Analysis • Python
+| Phase | Dataset | Key Finding |
+|-------|---------|-------------|
+| [Phase 1](./healthcare-fraud-fca-analysis) | CMS T-MSIS Medicaid (10GB) | 2 home health agencies, mathematically impossible LPN billing, ~$123M exposure. OIG referral submitted. |
+| [Phase 2](./allograft_fraud) | CMS Medicare Physician (1.26M records) | Arizona NP allograft cluster: $429M, 5 confirmed DOJ defendants. SoCal PT cluster: $43.9M, shared distributor. 145 providers flagged nationally. |
+| Phase 3 | DOJ/PACER cross-reference | 71% pre-charge confirmation rate. Validates CMS outlier detection as a pre-enforcement signal. |
+| Phase 4 | HHS OIG LEIE (83,001 records) | Mississippi: 26.59 patient abuse exclusions per 100K — 2.6x the #2 state. Concentrated in ICF/IID facilities. |
 
 ---
 
-## Public Sector Oversight Analytics
+## Other Projects
 
-Analysis of publicly available federal spending, contract, and governance datasets to evaluate funding trends, contractor concentration, organizational dependency, and oversight structures.
-
-### Highlights
-
-* Federal spending analysis
-* Contract concentration review
-* Governance and oversight evaluation
-* Longitudinal funding trend analysis
-* Public-sector data visualization
-
-### Skills Demonstrated
-
-Public Sector Analytics • Funding Analysis • Contract Analytics • Governance Analytics • Data Visualization
+| Project | Description |
+|---------|-------------|
+| [Stars/QBP Analysis](./stars-qbp-analysis) | 20 MA Star Rating measures invalidated by Clover v. HHS (May 2026). Interactive revenue loss calculator. |
+| [Rural CAH Financial Analysis](./rural-cah-financial-analysis) | 15-year IRS 990 analysis of a Critical Access Hospital. Operating margin trends, payer mix, debt leverage. |
+| [Public Sector Oversight Analytics](./public-sector-oversight-analytics) | Federal spending analysis of Rocky Mountain Laboratories (NIH/NIAID). |
+| [Glioblastoma Project](./Glioblastoma_Project) | Multi-dataset GBM incidence analysis (TCGA, NHANES, CDC WONDER). Latitude-incidence correlation r=0.558. |
+| [Insurance Denial Burden](./insurance-denial-burden) | Prior authorization denial patterns and administrative burden across payer types. |
 
 ---
 
-# Current Areas of Interest
+## Credentials
 
-* Healthcare Analytics
-* Population Health
-* Clinical Informatics
-* Program Integrity
-* Risk Adjustment
-* Healthcare AI Evaluation
-* Quality Measurement
-* Healthcare Operations Analytics
-* Public-Sector Healthcare Data
+| Credential | Body | Year |
+|------------|------|------|
+| PA-C | NCCPA | 2012 |
+| MSHIIM | Dakota State University | 2025 |
+| CHDA | AHIMA | 2025 |
+| CRC *(candidate)* | AAPC | Exam July 30, 2026 |
 
 ---
 
-# Professional Philosophy
-
-The most valuable healthcare analytics combines technical rigor with clinical context. Data can identify patterns, but understanding how care is actually delivered often determines whether those patterns become meaningful insights.
-
-My goal is to help healthcare organizations make better decisions by translating complex healthcare data into actionable information.
-
-**Quiet competence. Real impact.**
+*All analyses use publicly available, de-identified CMS data. This portfolio does not constitute legal findings.*
